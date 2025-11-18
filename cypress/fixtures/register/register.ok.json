@@ -1,0 +1,10 @@
+{
+  "razonSocial": "Empresa Test Automatizado S.A.",
+  "provincia": "Córdoba",
+  "localidad": "Santa Rosa de Calamuchita",
+  "direccion": "Av. Siempre Viva 742",
+  "password": "Test1234!",
+  "emailBase": "cliente-ok",
+  "cuitBase": "20",
+  "telefonoBase": "351"
+}

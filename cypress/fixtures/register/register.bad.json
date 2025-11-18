@@ -1,0 +1,8 @@
+{
+  "razonSocial": "Empresa Fallo S.R.L.",
+  "provincia": "Córdoba",
+  "localidad": "Villa General Belgrano",
+  "direccion": "Calle Falsa 123",
+  "password": "Test1234!",
+  "emailExistente": "usuario.existente@test.com"
+}
