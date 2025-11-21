@@ -20,9 +20,8 @@ Se automatizaron los siguientes casos de prueba en `cypress/e2e/register/registe
   
 
 
-## ▶️ Ejecución de los Tests
+## Ejecución de los Tests
 
-Puedes correr las pruebas de dos maneras:
 
 **1. Modo Interactivo (Cypress Runner):**
 Abre la interfaz gráfica para ver los tests en tiempo real.
